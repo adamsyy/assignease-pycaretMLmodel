@@ -33,7 +33,7 @@ app = Flask(__name__)
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    # Get the input data from the request body
+    # Get the input data from the request body.
     input_data = request.json
 
     # Preprocess the input data
