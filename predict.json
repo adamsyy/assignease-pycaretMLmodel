@@ -1,0 +1,118 @@
+[
+  {
+  "bid_amount": 0,
+  "bidding_message": "I'm sorry, but I cannot afford to bid on this item at the moment."
+  },
+  {
+  "bid_amount": 1500,
+  "bidding_message": "My offer is ₹1500. Let me know if you're interested."
+  },
+  {
+  "bid_amount": 1800,
+  "bidding_message": "I can offer ₹1800. Please consider my bid."
+  },
+  {
+  "bid_amount": 2500,
+  "bidding_message": "I am willing to pay ₹2500 for this item."
+  },
+  {
+  "bid_amount": 3000,
+  "bidding_message": "My bid is ₹3000. I believe it's a fair price."
+  },
+  {
+  "bid_amount": 1750,
+  "bidding_message": "I can go up to ₹1750. Let me know if we have a deal."
+  },
+  {
+  "bid_amount": 2200,
+  "bidding_message": "I'm willing to pay up to ₹2200. Please consider my offer."
+  },
+  {
+  "bid_amount": 1900,
+  "bidding_message": "My offer is ₹1900. Let me know if it works for you."
+  },
+  {
+  "bid_amount": 2800,
+  "bidding_message": "I can offer ₹2800. It's my final price."
+  },
+  {
+  "bid_amount": 2100,
+  "bidding_message": "I'm interested in the item. My bid is ₹2100."
+  },
+  {
+    "bid_amount": 2200,
+    "bidding_message": "I can offer ₹2200. Let me know if you're open to negotiations."
+},
+{
+    "bid_amount": 2800,
+    "bidding_message": "My bid is ₹2800. I believe it's a reasonable price for the item."
+},
+{
+    "bid_amount": 1950,
+    "bidding_message": "I'm willing to pay ₹1950. Please consider my offer seriously."
+},
+{
+    "bid_amount": 3100,
+    "bidding_message": "I can go up to ₹3100. Let's finalize the deal at a mutually beneficial price."
+},
+{
+    "bid_amount": 2400,
+    "bidding_message": "My offer is ₹2400. Feel free to counteroffer if needed."
+},
+{
+    "bid_amount": 1750,
+    "bidding_message": "I am interested in the item. My bid is ₹1750. Let's discuss further."
+},
+{
+    "bid_amount": 3300,
+    "bidding_message": "I'm willing to pay ₹3300, considering the value and condition of the item."
+},
+{
+    "bid_amount": 2600,
+    "bidding_message": "I can offer ₹2600. It's the maximum I can afford for now."
+},
+{
+    "bid_amount": 2050,
+    "bidding_message": "My bid is ₹2050. Let's negotiate and reach a mutually agreeable price."
+},
+{
+    "bid_amount": 2900,
+    "bidding_message": "I'm interested in purchasing the item for ₹2900. Let's proceed if it works for you."
+},
+{
+    "bid_amount": 2300,
+    "bidding_message": "I can go up to ₹2300. Feel free to counteroffer if you think it's necessary."
+},
+{
+    "bid_amount": 1850,
+    "bidding_message": "My offer is ₹1850. I hope we can come to an agreement on the price."
+},
+{
+    "bid_amount": 2500,
+    "bidding_message": "I am willing to pay ₹2500 for the item. Let me know your thoughts."
+},
+{
+    "bid_amount": 3200,
+    "bidding_message": "My bid is ₹3200. I'm willing to pay a premium for this high-quality item."
+},
+{
+    "bid_amount": 2700,
+    "bidding_message": "I can offer ₹2700. Let's discuss further and reach a fair deal."
+},
+{
+    "bid_amount": 2150,
+    "bidding_message": "I'm interested in the item and can offer ₹2150. Let's negotiate and finalize the price."
+},
+{
+    "bid_amount": 3000,
+    "bidding_message": "I believe the item is worth ₹3000. Let's proceed if you agree with my assessment."
+},
+{
+    "bid_amount": 2400,
+    "bidding_message": "I'm willing to pay ₹2400 for the item. Let's find a common ground."
+},
+{
+    "bid_amount": 1950,
+    "bidding_message": "My bid is ₹1950. I hope we can reach a mutually acceptable price."
+}
+  ]
