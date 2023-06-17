@@ -12,9 +12,10 @@ This repository contains a Python machine learning project that utilizes PyCarro
 
 ## Installation
 
-1. Clone the repository:
-
    ```bash
    git clone https://github.com/adamsyy/assignease-pycaretMLmodel.git
    cd assignease-pycaretMLmodel
    pip install -r requirements.txt
+
+
+
